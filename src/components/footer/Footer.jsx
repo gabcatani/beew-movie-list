@@ -19,7 +19,7 @@ const Footer = () => {
                 </div>
                 <div className="footer__content__menus">
                     <div className="footer__content__menu">
-                    <a href="https://github.com/gabcatani/beew-movies" target="_blank">Github</a>
+                    <a href="https://github.com/gabcatani/beew-movie-list" target="_blank">Github</a>
                     </div>
                     <div className="footer__content__menu">
                     <a href="https://www.unoesc.edu.br/" target="_blank">Unoesc</a>
