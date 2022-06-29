@@ -1,7 +1,7 @@
 # Beew Trailer List 
 
 Aplicativo desktop para visualizar e gerenciar seus trailers preferidos;
-A Beew é ótima para encontrar trailers específicos e ter a melhor experiência com filmes.
+A Beew é uma ótima plataforma para encontrar trailers específicos e ter a melhor experiência com filmes.
 
 ## Tecnologias
 Frontend: ReactJS + MaterialUi + Axios
