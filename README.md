@@ -1,6 +1,7 @@
-# Beew Movie List 
+# Beew Trailer List 
 
-Aplicativo desktop para visualizar e gerenciar seus filmes preferidos.
+Aplicativo desktop para visualizar e gerenciar seus trailers preferidos;
+A Beew é ótima para encontrar trailers específicos e ter a melhor experiência com filmes.
 
 ## Tecnologias
 Frontend: ReactJS + MaterialUi + Axios
@@ -23,12 +24,11 @@ Build in Electron for Desktop APP
 ## Devs
 @gabcatani
 
-@Igor.bernadi
+@Bernardiigor
 
 
 ## Projeto
-Projeto realizado para o curso de Ciência Da Computação - UNOESC - Progamção III - Professor Roberson Alves
+Projeto realizado para o curso de Ciência Da Computação - UNOESC - Programação III - Professor Roberson Alves
 
 ## License
 Public
-# beew-movie-list
